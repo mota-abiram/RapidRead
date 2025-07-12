@@ -12,7 +12,7 @@ RapidRead is an AI-powered web application that leverages OpenAI's powerful GPT-
 
 ## Usage:
 
-You may want to use the live version of RapidRead: https://quickread-ai.netlify.app/
+You may want to use the live version of RapidRead: [https://quickread-ai.netlify.app/](https://rapid-read-rabi08820-gmailcoms-projects.vercel.app/)
 
 1. Clone the repository:
    `git clone https://github.com/mota-abiram/RapidRead.git`
